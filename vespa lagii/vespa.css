@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+body{
+    background: linear-gradient(177.6deg, #C0ECFF 0%, rgba(255, 246, 206, 0.7) 97.99%);
+    margin: 0;
+    padding: 0;
+}
+/* NAVBAR */
+.navbar{
+    background-color: #bbe3f5;
+    /* position: fixed; */
+}
+.navbar img{
+    width: 140px;
+    height: 50px;
+    left: 1px;
+    top: 83px;
+}
+/* NAVBAR END */
+
+/* PRIMAVERA */
+#prima{
+    padding-top: 2%;
+    margin-top: 3%;
+}
+#prima img{
+    height: 350px;
+}
+/* PRIMAVERA END */
+
+/* ANNIVERSARY */
+#anniv{
+    margin-top: 5%;
+    margin-bottom: 50px;
+}
+#anniv img{
+    height: 330px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+/* ANNIVERSARY END */
+
+/* SPESIFIKASI */
+#spesifikasi{
+    padding-top: 2%;
+    margin-top: 5%;
+}
+#spesifikasi img{
+    height: 380px;
+    margin-top: 50px;
+}
+/* SPESIFIKASI END */
+
+/* GALERRY */
+#gallery{
+    padding-top: 2%;
+    margin-top: 5%;
+}
+#gallery h2{
+    margin-bottom: 3%;
+}
+/* GALLERY END */
+
+/* AKSESORIS */
+#akses{
+    padding-top: 2%;
+    margin-top: 5%;
+}
+#akses h2{
+    margin-bottom: 4%;
+}
+#akses img{
+    height: 200px;
+    width: 230px;
+}
+#akses button{
+    margin-top: 50px;
+    background-image: linear-gradient(to right, #2193b0, #6dd5ed);
+    font-size: 15px;
+}
+/* AKSESORIS END */
+
+/* FOOTER */
+#footer .list-icon img{
+    width: 50px;
+    height: 50px;
+}
+#footer{
+    background-color: #bdebff;
+    padding-top: 50px;
+    margin-top: 5%;
+    /* position: relative; */
+}
+.list-icon a{
+    margin-left: 10px;
+}
+/* FOOTER END */
